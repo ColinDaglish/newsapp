@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# virtual environment files
+pyvenv.cfg
+activate
+activate.bat
+Activate.ps1
+deactivate.bat
+pip.exe
+pip3.11.exe
+pip3.exe
+python.exe
+pythonw.exe
+
 # Distribution / packaging
 .Python
 build/
